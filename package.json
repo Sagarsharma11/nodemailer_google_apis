@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.0.3",
+    "googleapis": "^114.0.0",
+    "js-base64": "^3.7.5",
+    "mailparser": "^3.6.4",
+    "nodemailer": "^6.9.1",
+    "open": "^9.1.0"
+  }
+}
