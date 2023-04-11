@@ -1,10 +1,10 @@
 const { google } = require('googleapis');
 const nodemailer = require('nodemailer')
 
-const CLIENT_ID = '853949886656-a09ec33df0a9tr6h1vjdsn5rjqae1t9u.apps.googleusercontent.com'
+const CLIENT_ID = '09ecclientid.apps.googleusercontent.com'
 const CLIENT_SECRET = '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'
 const REDIRECT_URI = 'https://developers.google.com/oauthplayground'
-const REFRESH_TOKEN = '1//04U9rdXrjqObLCgYIARAAGAQSNwF-L9IrVl5QIX74B755mfRdxo4O1WfTgIUxfY50klQCGxXNa1srarBZxiWdb5a10K7VZ09ATaY'
+const REFRESH_TOKEN = '1AGAQSNwF-L9IrVl5QrefreshtokenIX74B755mfRdxo4O1WfTgIUxfY50klQCGxXNa1srarATaY'
 
 let toList = []
 
